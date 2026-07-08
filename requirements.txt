@@ -1,0 +1,37 @@
+# 🎮 Python Gaming Platform
+
+A terminal-based gaming platform built with Python and Termux.
+
+## Features
+
+- Login/Register
+- Player Profile
+- XP & Level System
+- Coins
+- Achievements
+- Leaderboard
+- Save/Load Game
+- Settings
+
+## Games
+
+- Guess Number
+- Rock Paper Scissors
+- Tic Tac Toe
+- Snake
+- Quiz
+- Memory Game
+
+## Installation
+
+```bash
+git clone <repository-url>
+cd gaming_platform
+pip install -r requirements.txt
+python app.py
+```
+
+## Author
+
+Ayon Mondal
+
